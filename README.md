@@ -27,6 +27,6 @@ Hello there, my name is Tigran. I have started my way in 01's world when I was o
 
 <b>My GitHub Stats</b>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TigranEngineer&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TigranEngineer&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TigranEngineer&show_icons=true&include_all_commits=true&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=false&show_icons=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TigranEngineer&card_width=320&langs_count=5&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=false&locale=en&custom_title=Top%20%Languages" height="150" alt="languages graph"  />
 </div>
