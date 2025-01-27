@@ -7,7 +7,7 @@ Software Engineer
 Hello there, my name is Tigran. I have started my way in 01's world when I was only 15. And my slogan is never give up and go ahead to new trials.
 
 * 🌍  I'm based in Yerevan, Armenia
-* 🧠  I'm learning 42 Yerevan (Ecole).
+* 🧠  I'm learning at 42 Yerevan (Ecole).
 * 🤝  I'm open to collaborating on system programming and software architecture.
 * ⚡  My hobbies are playing/watching football, at free time(that I don't have) watch some move's and short serials.
 
